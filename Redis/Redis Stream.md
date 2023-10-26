@@ -21,5 +21,7 @@ Stream 中的每个元素被叫做 *entry*，每个 *entry* 有一个 *Unique ID
 - 由用户指定一个 *ID*
 	- 该 *ID* 生成策略需要保证唯一且有序
 
-> 为什么 Redis Stream 生成的 *entry ID* 要包含时间呢？因为包含了时间的 *entry ID* 可以方便 Redis Stream 使用 `XRANGE` 进行高效的“范围查询”
+> 为什么 Redis Stream 生成的 *entry ID* 要包含时间呢？
+> 
+> 因为包含了时间的 *entry ID* 可以方便 Redis Stream 使用 `XRANGE` 进行高效的“范围查询”
 
