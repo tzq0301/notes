@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "719bbafb9f12c683",
+    "type": "split",
+    "children": [
+      {
+        "id": "806b2926e25b1b77",
+        "type": "split",
+        "children": [
+          {
+            "id": "21866e49aae27648",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3ff2156fbee23a25",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "178528b0e7977892",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "96d6fd3cb2d6b0be",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/Users/tzq0301/同步空间/笔记",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "/bin/zsh",
+                        "name": "",
+                        "platforms": {
+                          "darwin": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": true,
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {},
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": {
+                        "columns": 148,
+                        "data": "\u001b[32;1m➜  \u001b[36m笔记\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m \u001b[32mls\u001b[0m                                             \r\nUntitled.md\r\n\u001b[32;1m➜  \u001b[36m笔记\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m \u001b[32mrm\u001b[0m \u001b[4mUntitled.md\u001b[0m                 \r\n\u001b[32;1m➜  \u001b[36m笔记\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m \u001b[32mvim\u001b[0m push.sh           \r\n\u001b[32;1m➜  \u001b[36m笔记\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m \u001b[32mls\u001b[0m   \r\npush.sh\r\n\u001b[32;1m➜  \u001b[36m笔记\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m \u001b[32mbash\u001b[0m \u001b[4mpush.sh\u001b[0m                                                                            \r\nerror: switch `m' requires a value\r\nerror: src refspec main does not match any\r\n\u001b[31merror: failed to push some refs to 'github.com:tzq0301/notes.git'\r\n\u001b[1m➜  \u001b[36m笔记\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m \u001b[32mbash\u001b[0m \u001b[4mpush.sh\u001b[0m \u001b[33m\"\"\u001b[1D\u001b[0m",
+                        "rows": 23
+                      }
+                    }
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0e110a481e7e26b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed930ea3b519b07f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b1f98ec0b7d4f34",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e14b215d775d6937",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e10b2a3e67b31cd9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cd1e551e4196fdee",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4bbf97906800d1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c602c5ef795a030",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "271b868fa4c4707b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "949b4b2aa27db630",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c9dc3c3ddd63fed3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "96d6fd3cb2d6b0be",
+  "lastOpenFiles": [
+    "Redis/Redis Stream.md",
+    "Redis",
+    "push.sh"
+  ]
+}
