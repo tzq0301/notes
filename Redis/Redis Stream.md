@@ -1,3 +1,5 @@
+# Redis Stream
+
 > 官方文档：[Redis Stream | Redis](https://redis.io/docs/data-types/streams/)
 
 Redis Stream 是一种类似于 *append-only log* 的数据结构，其基于 *Radix Tree* 进行实现，其除了串型存储数据外还有以下特点：
